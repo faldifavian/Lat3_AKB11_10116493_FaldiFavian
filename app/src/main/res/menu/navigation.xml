@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"
+        />
+
+    <item
+        android:id="@+id/nav_daily"
+        android:icon="@drawable/ic_mood_black_24dp"
+        android:title="Daily"
+        />
+
+    <item
+        android:id="@+id/navigation_gallery"
+        android:icon="@drawable/ic_collections_black_24dp"
+        android:title="Gallery" />
+
+    <item
+        android:id="@+id/navigation_music_video"
+        android:icon="@drawable/ic_music_video_black_24dp"
+        android:title="MuVid" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Profile" />
+
+</menu>
